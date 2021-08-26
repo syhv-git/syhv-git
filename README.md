@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @syhv-git
+- I am currently studying at University of Hawai`i at Manoa.
+- Please cite your work. My name is Scott Vore.
