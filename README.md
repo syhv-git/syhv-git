@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @syhv-git
 - I am currently studying at University of Hawai`i at Manoa majoring in Information and Computer Science.
 - My field of focus is Security and Information Assurance
-- Feel free to utilize my projects, but please cite appropriately. My name is Scott Vore.
+- All projects, created by myself, fall under the GNU General Public License (v3.0 or later).
+- The full Terms and Conditions can be found [here](https://choosealicense.com/licenses/gpl-3.0/).
