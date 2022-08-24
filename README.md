@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @syhv-git
-- I am currently studying at University of Hawai`i at Manoa majoring in Information and Computer Science.
-- My field of focus is Security and Information Assurance
+- Graduated Spring 2022 with a BA in Information and Computer Science - Security Science from the University of Hawaii at Manoa
 - All projects, created by myself, fall under the GNU General Public License (v3.0 or later)
 - Projects which do no fall under this license will have a specification on the license agreement and terms in 
   the repository or are inherited from the main project.
